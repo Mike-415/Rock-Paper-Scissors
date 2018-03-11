@@ -1,6 +1,8 @@
 # Rock Paper Scissors
 An application that demonstrates segues(programmatically), outlet collections, enumerations, and passing data to other view controllers
 
+<img src="Simulator_Screen_1.png" width="300"> <img src="Simulator_Screen_2.png" width="300">
+
 ## Requirements
 - [x] The first (initial) view controller should contain three buttons: rock, paper, and scissors.  
      Once a button is clicked, the first view controller should modally present the second view controller.
